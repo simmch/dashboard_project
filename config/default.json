@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://simmch:P@ssw1rd@cluster0-dduga.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e2e102b5d3f3a5d4791f",
+  "githubSecret": "b7f5057ecf9c84adf2ebcf1f2521afdbbbc2db58"
+}
